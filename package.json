@@ -1,6 +1,6 @@
 {
   "name": "@3swallet/jsc-android",
-  "version": "294992.0.1",
+  "version": "294992.0.2",
   "description": "Pre-build version of JavaScriptCore to be used by React Native apps",
   "repository": {
     "type": "git",
